@@ -63,7 +63,7 @@ export PATH=$PATH:$(pwd)
 
 | Script | Descripción |
 |--------|-------------|
-| `creadorUsuarios.sh` | Crea nuevos usuarios del sistema con validaciones |
+| [`creadorUsuarios.sh`](https://github.com/Esperilla/Bash-Scripts/blob/main/Administraci%C3%B3n%20de%20Usuarios/creadorUsuarios.sh) | Crea nuevos usuarios del sistema con validaciones |
 | `borradoUsuarios.sh` | Elimina usuarios del sistema de forma segura |
 | `Usuario_Fecha.sh` | Gestiona usuarios con información de fecha |
 
@@ -149,7 +149,7 @@ bash-scripts/
 ├── 👥 Administración de Usuarios
 ├── creadorUsuarios.sh
 ├── borradoUsuarios.sh
-└── Usuario_Fecha.sh
+└── usuarioFecha.sh
 │
 ├── 📁 Gestión de Archivos
 ├── compresor.sh
