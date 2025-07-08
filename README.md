@@ -1,22 +1,22 @@
-# 🐚 Colección de Scripts de Bash
+# 🐚 Bash Scripts
 
 Una colección completa de scripts de Bash para automatización de tareas de sistema, administración de usuarios, manipulación de archivos y más. Este repositorio contiene herramientas útiles para administradores de sistemas y desarrolladores que trabajan en entornos Linux/Unix.
 
 ## 📋 Tabla de Contenidos
 
-- [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Scripts Disponibles](#scripts-disponibles)
-  - [Administración de Usuarios](#administración-de-usuarios)
-  - [Gestión de Archivos](#gestión-de-archivos)
-  - [Herramientas de Red](#herramientas-de-red)
-  - [Utilidades Varias](#utilidades-varias)
-  - [Algoritmos y Programación](#algoritmos-y-programación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+- [Características](#-características)
+- [Requisitos](#-requisitos)
+- [Instalación](#-instalación)
+- [Scripts Disponibles](#-scripts-disponibles)
+  - [Administración de Usuarios](#-administración-de-usuarios)
+  - [Gestión de Archivos](#-gestión-de-archivos)
+  - [Herramientas de Red](#-herramientas-de-red)
+  - [Utilidades Varias](#-utilidades-varias)
+  - [Algoritmos y Programación](#-algoritmos-y-programación)
+- [Uso](#-uso)
+- [Estructura del Proyecto](#-estructura-del-repositorio)
+- [Contribución](#-contribución)
+- [Licencia](#-licencia)
 
 ## ✨ Características
 
