@@ -71,7 +71,7 @@ export PATH=$PATH:$(pwd)
 
 | Script | Descripción |
 |--------|-------------|
-| `compresor.sh` | Comprime archivos recursivamente en directorios |
+| [`compresorZIP.sh`](https://github.com/Esperilla/Bash-Scripts/blob/main/Gesti%C3%B3n%20de%20Archivos/compresorZIP.sh) | Comprime archivos recursivamente en directorios |
 | `concatenarArchivos.sh` | Concatena múltiples archivos en uno solo |
 | `copiarMover.sh` | Automatiza operaciones de copia y movimiento |
 | `deleterRecursivo.sh` | Elimina archivos y directorios recursivamente |
