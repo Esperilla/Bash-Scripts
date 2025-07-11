@@ -72,11 +72,10 @@ export PATH=$PATH:$(pwd)
 | Script | Descripción |
 |--------|-------------|
 | [`compresorZIP.sh`](https://github.com/Esperilla/Bash-Scripts/blob/main/Gesti%C3%B3n%20de%20Archivos/compresorZIP.sh) | Comprime archivos recursivamente en directorios |
-| `concatenarArchivos.sh` | Concatena múltiples archivos en uno solo |
-| `copiarMover.sh` | Automatiza operaciones de copia y movimiento |
-| `deleterRecursivo.sh` | Elimina archivos y directorios recursivamente |
-| `archivosLista.sh` | Lista archivos con diferentes criterios |
-| `archivoFecha.sh` | Organiza archivos por fecha |
+| [`concatenarArchivos.sh`](https://github.com/Esperilla/Bash-Scripts/blob/main/Gesti%C3%B3n%20de%20Archivos/concatenarArchivos.sh) | Concatena múltiples archivos en uno solo |
+| [`copiarMover.sh`](https://github.com/Esperilla/Bash-Scripts/blob/main/Gesti%C3%B3n%20de%20Archivos/copiarMover.sh) | Automatiza operaciones de copia y movimiento |
+| [`deleterRecursivo.sh`](https://github.com/Esperilla/Bash-Scripts/blob/main/Gesti%C3%B3n%20de%20Archivos/deleterRecursivo.sh) | Elimina archivos y directorios recursivamente |
+| [`archivosLista.sh`](https://github.com/Esperilla/Bash-Scripts/blob/main/Gesti%C3%B3n%20de%20Archivos/archivosLista.sh) | Lista archivos con diferentes criterios |
 
 ### 🌐 Herramientas de Red
 
